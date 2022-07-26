@@ -2,11 +2,10 @@
 - satu
   *satu
   *dua
-   -awkoakowaokwokaokw
+  *tiga
 - tiga
- *akwoakowakowawk
+  -tiga setengah
 
-tambah baru
 - satu
 - dua
 - tiga
